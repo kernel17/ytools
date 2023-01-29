@@ -5,7 +5,7 @@ from aiogram.types import InputFile
 import requests
 from grabber import grab_vi
 
-API_TOKEN = '5812705690:AAH4j051brpon7ErGWA4eKgtSGX-0TEKbA0'
+API_TOKEN = ''
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
